@@ -3649,6 +3649,9 @@ MonoBehaviour:
   m_UIToggleObject: {fileID: 0}
   m_QuestSettings: {fileID: 0}
   m_AndroidXRSettings: {fileID: 0}
+  m_OnHandOcclusionChanged:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!4 &5684662119113075334 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2162714242004346942, guid: d6878e1999eb4b44a9f5a263af86c185, type: 3}
